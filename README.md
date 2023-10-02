@@ -3,7 +3,7 @@
 
 <h3 align="left">Estou aprendendo:</h3>
 <p align="left">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> height="30" width="40" /></a>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 < /p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
