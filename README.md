@@ -1,4 +1,4 @@
-<h1 align="center">Olá, me chamo Dinarte Filho!</h1>
+<h1 align="center">Olá, me chamo Dinarte Filho.</h1>
 <h3 align="center">Estudante de Tecnologia da Informação - BTI.</h3>
 
 <h3 align="left">Linguagens de programação:</h3>
