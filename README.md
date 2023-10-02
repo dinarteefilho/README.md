@@ -1,9 +1,9 @@
 <h1 align="center">Olá, me chamo Dinarte Filho!</h1>
 <h3 align="center">Estudante de Tecnologia da Informação - BTI.</h3>
 
-<h3 align="left">Conecte-se comigo :</h3>
+<h3 align="left">Estou aprendendo:</h3>
 <p align="left">
-<a href="https://instagram.com/dinarteefilho" target="blank"><img align="center" src="https://raw. githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dinarteefilho" height="30" width="40" /></a>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> height="30" width="40" /></a>
 < /p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
