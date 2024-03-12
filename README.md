@@ -1,25 +1,22 @@
-# Olá, sou Dinarte Filho! 👋
+### *Olá, me chamo Dinarte Filho!*
+#### Me acompanhe através das redes sociais
+___
 
-## Sobre Mim
+[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinarte-rodrigues-0922372b0/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dinarteefilho)
 
-Sou desenvolvedor de software com experiência em várias áreas, desde programação de baixo nível em C até desenvolvimento web com JavaScript, HTML e CSS. Estou constantemente buscando desafios que me permitam expandir meu conhecimento e habilidades enquanto contribuo para projetos interessantes.
+#### Algumas das minhas habilidades:
+___
 
-## Habilidades
+![C](https://img.shields.io/badge/C-%23007ACC.svg?style=for-the-badge&logo=C&logoColor=white)
+![javaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-Aqui estão algumas das minhas principais habilidades:
+#### Sobre mim
+___
 
-![C](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_Logo.png/35px-C_Logo.png)
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/35px-JavaScript-logo.png)
-![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/35px-HTML5_logo_and_wordmark.svg.png)
-![CSS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/35px-CSS3_logo_and_wordmark.svg.png)
+Desenvolvedor Front-End.
 
-Estou sempre interessado em explorar novas tecnologias e técnicas para melhorar minha capacidade de desenvolvimento.
-
-## Como Entrar em Contato
-
-- 📧 Você pode me enviar um e-mail em [dinarte_filho@hotmail.com](mailto:dinarte_filho@hotmail.com).
-- 💼 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/dinarte-rodrigues-0922372b0/) para oportunidades de networking e colaboração.
-
-## Obrigado por Visitar!
-
-Obrigado por conferir meu perfil no GitHub! Estou ansioso para colaborar em projetos emocionantes e aprender com outros desenvolvedores talentosos como você. Vamos fazer coisas incríveis juntos! 🚀
+Graduando em Tecnologia da Informação (UFERSA).
