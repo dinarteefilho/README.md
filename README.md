@@ -5,7 +5,7 @@ ___
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinarte-rodrigues-0922372b0/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dinarteefilho)
 
-#### Algumas das minhas habilidades:
+#### Algumas das minhas habilidades
 ___
 
 ![C](https://img.shields.io/badge/C-%23007ACC.svg?style=for-the-badge&logo=C&logoColor=white)
