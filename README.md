@@ -17,6 +17,4 @@ ___
 #### Sobre mim
 ___
 
-Desenvolvedor Front-End.
-
 Graduando em Tecnologia da Informação (UFERSA).
